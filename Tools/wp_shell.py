@@ -30,7 +30,7 @@ banner = r'''
 ################################################################
 #                                                              #
 #        GitHub:   https://github.com/nnafizsadik              #
-#        Email:    owner@nafizsadik                            #
+#        Email:    nafizsadik@proton.me                        #
 #                                                              #
 ################################################################
 '''
