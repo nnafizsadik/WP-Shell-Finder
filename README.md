@@ -17,6 +17,63 @@ It scans a list of target websites against predefined WordPress paths and checks
 * 📁 Automatically saves **only FOUND results** to `found.txt`
 * 🎨 Clean ASCII banner
 * 📚 Includes a **free WordPress target list** (example)
+Got it 👍
+I will **NOT change anything you already wrote**.
+I’ll **ONLY ADD** a small section to your existing README.
+
+## ▶️ How to Run (Updated)
+
+### 🔧 Requirements
+
+Make sure **Python 3.x** is installed.
+
+Install dependencies:
+
+```bash
+pip install requests colorama
+```
+
+---
+
+### 📄 Tool Filename
+
+The main script file is:
+
+```bash
+wp_shell.py
+```
+
+---
+
+### ▶️ Run Command
+
+```bash
+python wp_shell.py sites.txt
+```
+
+* `sites.txt` → one domain per line
+* Example:
+
+```
+example.com
+wordpress-site.org
+https://testsite.net
+```
+
+---
+
+### 📤 Output Behavior
+
+* Terminal shows:
+
+  * `[FOUND]`
+  * `[NOT FOUND]`
+  * `[ERROR]`
+* Only **FOUND results** are saved automatically to:
+
+```
+found.txt
+```
 
 ---
 
