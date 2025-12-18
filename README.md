@@ -1,4 +1,4 @@
-** 🛡️ WP Shell Finder (Educational Project)
+# 🛡️ WP Shell Finder (Educational Project)
 
 **WP Shell Finder** is a **Python-based WordPress path scanner** designed for **cybersecurity research, learning, and educational purposes only**.
 It scans a list of target websites against predefined WordPress paths and checks for a specific response keyword.
