@@ -106,7 +106,8 @@ If you use this tool, **you are solely responsible** for your actions.
 **Nafiz Sadik**
 
 * GitHub: [https://github.com/nnafizsadik](https://github.com/nnafizsadik)
-* Email: studynafizsadik@gmail.com
+* Portfolio: [https://nafizsadik.me/](https://nafizsadik.me/)
+* Email: [studynafizsadik@gmail.com](mailto:studynafizsadik@gmail.com)
 
 ---
 
