@@ -164,7 +164,7 @@ If you use this tool, **you are solely responsible** for your actions.
 
 * GitHub: [https://github.com/nnafizsadik](https://github.com/nnafizsadik)
 * Portfolio: [https://nafizsadik.me/](https://nafizsadik.me/)
-* Email: [studynafizsadik@gmail.com](mailto:nafizsadik@proton.me)
+* Email: [nafizsadik@proton.me](mailto:nafizsadik@proton.me)
 
 ---
 
